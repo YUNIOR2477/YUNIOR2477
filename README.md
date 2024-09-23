@@ -1,4 +1,4 @@
-
+![img-git](https://github.com/user-attachments/assets/5b103361-8648-4adf-a1fe-6ef8f6fef85d)
 # 💫 About Me:
 👋 ¡Hola! Soy un apasionado analista y desarrollador de software de 24 años. Me encanta resolver problemas complejos y crear soluciones innovadoras. Tengo experiencia en FRONTEND Y BACKEND, disfruto trabajando en proyectos colaborativos. Siempre estoy buscando aprender y mejorar mis habilidades. ¡Vamos a construir algo increíble juntos!
 
