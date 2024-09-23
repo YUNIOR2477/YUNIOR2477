@@ -1,4 +1,4 @@
-<div color="blue">
+
 # 💫 About Me:
 👋 ¡Hola! Soy un apasionado analista y desarrollador de software de 24 años. Me encanta resolver problemas complejos y crear soluciones innovadoras. Tengo experiencia en FRONTEND Y BACKEND, disfruto trabajando en proyectos colaborativos. Siempre estoy buscando aprender y mejorar mis habilidades. ¡Vamos a construir algo increíble juntos!
 
@@ -11,5 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNIOR2477&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YUNIOR2477&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YUNIOR2477&icon=2&color=10)](https://visitcount.itsvg.in)
 
