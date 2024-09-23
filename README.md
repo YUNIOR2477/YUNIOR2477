@@ -1,4 +1,4 @@
-![Diseño sin título (3)](https://github.com/user-attachments/assets/70aef956-3151-4d66-b0a9-ac42a544b651)
+  ![Diseño sin título (3)](https://github.com/user-attachments/assets/70aef956-3151-4d66-b0a9-ac42a544b651)
 # 💫 About Me:
 👋 ¡Hola! Soy un apasionado analista y desarrollador de software de 24 años. Me encanta resolver problemas complejos y crear soluciones innovadoras. Tengo experiencia en FRONTEND Y BACKEND, disfruto trabajando en proyectos colaborativos. Siempre estoy buscando aprender y mejorar mis habilidades. ¡Vamos a construir algo increíble juntos!
 
