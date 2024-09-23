@@ -1,4 +1,4 @@
-https://github.com/YUNIOR2477/YUNIOR2477/issues/2#issue-2543383095
+![Diseño sin título (2)](https://github.com/user-attachments/assets/bc4db4d5-1bdc-4622-a5c5-558451e796f1)
 # 💫 About Me:
 👋 ¡Hola! Soy un apasionado analista y desarrollador de software de 24 años. Me encanta resolver problemas complejos y crear soluciones innovadoras. Tengo experiencia en FRONTEND Y BACKEND, disfruto trabajando en proyectos colaborativos. Siempre estoy buscando aprender y mejorar mis habilidades. ¡Vamos a construir algo increíble juntos!
 
